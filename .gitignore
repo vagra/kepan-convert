@@ -8,3 +8,5 @@ repository/*
 !repository/css
 !repository/img
 !repository/js
+!repository/*.md
+!repository/*.htm
