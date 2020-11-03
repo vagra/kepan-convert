@@ -1,0 +1,10 @@
+vendor/
+configuration.php
+private/logs/*
+private/sessions/*
+private/tmp/*
+private/users.json
+repository/*
+!repository/css
+!repository/img
+!repository/js
